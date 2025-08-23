@@ -1,3 +1,9 @@
+## Hey, I’m Abhishek — thrilled to meet you! 🤝  
+
+A curious learner and passionate developer, driven to create meaningful solutions with technology.  
+
+💻 Dive in to know more about me — I’d love to connect with you!
+
 ## 🌐 Connect with Me  
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__i_amabhishek_)  

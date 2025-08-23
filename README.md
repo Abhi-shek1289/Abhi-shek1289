@@ -18,7 +18,7 @@ A curious learner and passionate developer, driven to create meaningful solution
 
 # 📊 GitHub Stats  
 
-![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhi-shek1289&theme=dark&hide_border=false&include_all_commits=false&count_private=true)  
+![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhi-shek1289&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi-shek1289&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
 

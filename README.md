@@ -1,4 +1,4 @@
-## Hey, I’m Abhishek — thrilled to meet you! 🤝  
+## Hey, I’m Abhishek — delighted to connect with you! 🤝
 
 A curious learner and passionate developer, driven to create meaningful solutions with technology.  
 

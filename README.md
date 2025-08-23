@@ -10,8 +10,11 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ABHISHEK1289&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![ GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ABHISHEK1289&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br>
+
+
 ![](https://nirzak-streak-stats.vercel.app/?user=ABHISHEK1289&theme=dark&hide_border=false)<br/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ABHISHEK1289&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
